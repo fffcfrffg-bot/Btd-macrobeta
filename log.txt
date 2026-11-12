@@ -1,0 +1,26 @@
+01:02:33 [UUID] Загружено башен: 6
+01:02:33 [WIRE] загружено из файла (версия игры совпадает)
+01:02:33 [OK] SendUnbufferedEvent подключён через callbacks
+01:02:34 [OK] BTD Macro v12.4 загружен
+01:02:34 [UUID] Ball -> 7517686f-7fb1-40e4-9e44-e988fb5b4a98
+01:02:37 [AUTO] старт: autoDiff=true autoLoop=true режим=medium PlaceId=18517861463 roundState=nil в матче=false
+01:02:37 [AUTO] отправляю запись mode_medium, попытка 1
+01:02:37 [S->C] новый kind 'set_round_state': round_state=string:TOWER_DEFENSE, kind=string:set_round_state
+01:02:39 [ROUTINE] 'mode_medium': отправлено 5, пропущено 0
+01:02:41 [AUTO] старт: autoDiff=false autoLoop=true режим=medium PlaceId=18517861463 roundState=TOWER_DEFENSE в матче=true
+01:03:09 [C->S] новый wire id 35, аргументов: 1
+01:03:37 [C->S] новый wire id 45, аргументов: 0
+01:03:44 [C->S] новый wire id 44, аргументов: 1
+01:03:44 [S->C] новый kind 'set_intermission_timer': timer=number:10, kind=string:set_intermission_timer
+01:03:48 [C->S] новый wire id 39, аргументов: 4
+01:03:48 [S->C] новый kind 'add_tower': spawn_kind_name=string:RichBall, spawn_rotation=number:0, spawn_mods=table:table: 0x7005c983dc992596, spawn_facade_id=string:{62a9aaa3-1b01-4159-8397-92ef5af084de}, spawn_position=Vector3:-1394.3480224609375, 3, 1230.0108642578125, spawn_item_id=string:cde1baf8-c46d-4347-a05c-317ec012e384, spawn_target_mode=string:first, spawn_owner=Instance:gbbjteyygf6, entity_id=number:29, kind=string:add_tower, spawn_tier=number:1
+01:03:58 [C->S] новый wire id 25, аргументов: 1
+01:04:21 [REC] UPGRADE entity_id=2 tier=nil
+01:04:30 [REC] UPGRADE entity_id=1 tier=nil
+01:04:45 [REPLAY] Завершено, пропущено: 0
+01:04:55 WARN [REPLAY] upgrade: нет соответствия для entity_id=2
+01:05:05 WARN [REPLAY] upgrade: нет соответствия для entity_id=1
+01:05:05 [REPLAY] Завершено, пропущено: 2
+01:05:24 WARN [REPLAY] upgrade: нет соответствия для entity_id=2
+01:05:34 WARN [REPLAY] upgrade: нет соответствия для entity_id=1
+01:05:34 [REPLAY] Завершено, пропущено: 2
